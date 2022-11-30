@@ -3,3 +3,7 @@ welcome to recipies menu
 Kheer
 pasta
 chicken 
+
+
+Beans
+pizza
